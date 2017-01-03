@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Kasama
+Type=X-GNOME-Metatheme
+Comment=my theme
+
+[X-GNOME-Metatheme]
+GtkTheme=BlackMATE
+MetacityTheme=DustBlue
+IconTheme=mate
+GtkColorScheme=
+CursorTheme=Oxygen_Black
+CursorSize=24
+NotificationTheme=Coco
+BackgroundImage=/home/roberto/images/wallpapers/shared/gnome/Terraform-green.jpg

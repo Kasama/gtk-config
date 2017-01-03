@@ -1,0 +1,17 @@
+# File created by KDE Gtk Config
+# Configs for GTK2 programs 
+
+#include "/home/roberto/.themes/Breeze-dark-gtk/gtk-2.0/gtkrc"
+include "/home/roberto/.themes/gnome-breeze/Breeze-dark-gtk/gtk-3.20/gtk.css"
+style "user-font" 
+{
+	font_name="Cantarell Regular"
+}
+widget_class "*" style "user-font"
+gtk-font-name="Cantarell Regular 10"
+gtk-theme-name="Breeze-dark-gtk"
+gtk-icon-theme-name="breeze"
+gtk-fallback-icon-theme="hicolor"
+gtk-toolbar-style=GTK_TOOLBAR_ICONS
+gtk-menu-images=1
+gtk-button-images=1
