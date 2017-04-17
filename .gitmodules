@@ -1,0 +1,3 @@
+[submodule "gnome-breeze"]
+	path = gnome-breeze
+	url = git@github.com:dirruk1/gnome-breeze
